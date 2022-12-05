@@ -1,0 +1,15 @@
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/bin/Debug/net6.0/Sem3Task17
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/bin/Debug/net6.0/Sem3Task17.deps.json
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/bin/Debug/net6.0/Sem3Task17.runtimeconfig.json
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/bin/Debug/net6.0/Sem3Task17.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/bin/Debug/net6.0/Sem3Task17.pdb
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.csproj.AssemblyReference.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.AssemblyInfoInputs.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.AssemblyInfo.cs
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.csproj.CoreCompileInputs.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/refint/Sem3Task17.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.pdb
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/Sem3Task17.genruntimeconfig.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem3Task17/obj/Debug/net6.0/ref/Sem3Task17.dll

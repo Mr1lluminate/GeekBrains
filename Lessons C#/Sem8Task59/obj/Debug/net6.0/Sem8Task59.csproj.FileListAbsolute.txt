@@ -1,0 +1,15 @@
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/bin/Debug/net6.0/Sem8Task59
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/bin/Debug/net6.0/Sem8Task59.deps.json
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/bin/Debug/net6.0/Sem8Task59.runtimeconfig.json
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/bin/Debug/net6.0/Sem8Task59.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/bin/Debug/net6.0/Sem8Task59.pdb
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.csproj.AssemblyReference.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.AssemblyInfoInputs.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.AssemblyInfo.cs
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.csproj.CoreCompileInputs.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/refint/Sem8Task59.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.pdb
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/Sem8Task59.genruntimeconfig.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem8Task59/obj/Debug/net6.0/ref/Sem8Task59.dll

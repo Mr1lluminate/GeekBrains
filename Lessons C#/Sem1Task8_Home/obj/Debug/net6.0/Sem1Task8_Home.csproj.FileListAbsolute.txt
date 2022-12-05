@@ -1,0 +1,15 @@
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/bin/Debug/net6.0/Sem1Task8_Home
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/bin/Debug/net6.0/Sem1Task8_Home.deps.json
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/bin/Debug/net6.0/Sem1Task8_Home.runtimeconfig.json
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/bin/Debug/net6.0/Sem1Task8_Home.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/bin/Debug/net6.0/Sem1Task8_Home.pdb
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.csproj.AssemblyReference.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.AssemblyInfoInputs.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.AssemblyInfo.cs
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.csproj.CoreCompileInputs.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/refint/Sem1Task8_Home.dll
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.pdb
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/Sem1Task8_Home.genruntimeconfig.cache
+/Users/mr.nik/Desktop/Projects/VSCode/MissionProgam/Sem1Task8_Home/obj/Debug/net6.0/ref/Sem1Task8_Home.dll
